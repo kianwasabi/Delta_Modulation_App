@@ -13,7 +13,7 @@ Delta Modulation App in Matlab
 Done.
 
 ## Built with:
-Matlab - Required: App builder
+Matlab - Required: App Designer
 
 ## Author:
 Kian David Warias
