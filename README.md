@@ -18,6 +18,3 @@ Done.
 
 ## Built with:
 Matlab - Required: App Designer
-
-## Author:
-Kian David Warias
